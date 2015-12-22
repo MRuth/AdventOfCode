@@ -37,5 +37,5 @@ object Day12 extends App {
   }
 
   println(s"Part 1: ${part_1()}")
-  println(s"Part 1: ${part_2()}")
+  println(s"Part 2: ${part_2()}")
 }
